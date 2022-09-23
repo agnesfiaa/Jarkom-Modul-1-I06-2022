@@ -32,3 +32,24 @@ Kemudian buka file `194` pada PC anda, dan terlihat Judul TA yang dibuka oleh Is
 Cara menampilkan paket yang hanya menuju port 80 adalah dengan menggunakan ```tcp.dstport == 80.``` di display filter. 
 ![no 3](https://user-images.githubusercontent.com/112471006/191893444-9af2d7d3-e47a-4ef3-8fba-0a9c537804f2.png)
 
+<strong> No 5. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 443!</strong>
+
+Cara menampilkan paket yang hanya berasal port 443 adalah dengan menggunakan ```tcp.srcport == 443``` di display filter.
+![no 5 (1)](https://user-images.githubusercontent.com/112471006/191997656-720d0d96-255b-4ddf-8f72-b5209559d605.png)
+![no 5 (2)](https://user-images.githubusercontent.com/112471006/191997660-73d3a65d-f7a8-4aad-b800-86aa7b5ff386.png)
+![no 5 (3)](https://user-images.githubusercontent.com/112471006/191997627-6ec99d01-1058-4999-99bc-a85421db322c.png)
+![no 5 (4)](https://user-images.githubusercontent.com/112471006/191997637-a73c23d2-527a-49e9-8be8-b70a9cbdbf4a.png)
+![no 5 (5)](https://user-images.githubusercontent.com/112471006/191997643-7afc1175-fee2-45f2-b3b6-e3bf7cd23a9f.png)
+![no 5 (6)](https://user-images.githubusercontent.com/112471006/191997645-48c547cd-2227-4e2e-90d1-a0e5aa0a05c7.png)
+![no 5 (7)](https://user-images.githubusercontent.com/112471006/191997649-22de2332-288e-4928-8e6e-3140c2e44a14.png)
+![no 5 (8)](https://user-images.githubusercontent.com/112471006/191997651-8872d3c2-1e9a-45a9-8717-7fda8d8ebec1.png)
+![no 5 (9)](https://user-images.githubusercontent.com/112471006/191997655-2be9b7c0-62d4-4e42-ba43-b7cc76b27cb7.png)
+
+<strong> No 6.Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id!</strong>
+
+Pertama-tama kita mencari tahu ‘ip address’ dari lipi.go.id dari cmd menggunakan ping
+![No 6](https://user-images.githubusercontent.com/112471006/191998778-ece8561a-f1ef-4600-8cf8-9078d5d213cd.png)
+
+
+
+
