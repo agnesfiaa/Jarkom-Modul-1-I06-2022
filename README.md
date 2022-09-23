@@ -57,7 +57,7 @@ kemudian kita diminta untuk mencari tahu paket yang menuju ip address tersebut d
 
 Pertama-tama kita mencari tahu ip address kita dari dari cmd menggunakan ```ipconfig```
 ![no 7 (ip)](https://user-images.githubusercontent.com/112471006/191999958-8ff99f75-c1bc-46fe-8eec-3e914583e64d.png)
-kemudian kita diminta untuk mencari tahu paket yang berasal dari ip addres kita dengan menggunakan '''ip.src == 192.168.1.10''' di display filter.
+kemudian kita diminta untuk mencari tahu paket yang berasal dari ip addres kita dengan menggunakan ```ip.src == 192.168.1.10``` di display filter.
 ![no 7](https://user-images.githubusercontent.com/112471006/192001108-23dcc036-0707-4ca2-8304-33409a34b475.png)
 
 
