@@ -1,8 +1,8 @@
 # Jarkom-Modul-1-I06-2022
 Nama Anggota :
-1. Rycahaya Sri Hutomo   5025201046
-2. Agnesfia Anggraeni    5025201059
-3. Rahel Cecilia Purba   5025201155
+1. Rycahaya Sri Hutomo    (5025201046)
+2. Agnesfia Anggraeni     (5025201059)
+3. Rahel Cecilia Purba    (5025201155) 
 
 <strong> No 1. Sebutkan web server yang digunakan pada "monta.if.its.ac.id"!</strong>
 
@@ -45,10 +45,21 @@ Cara menampilkan paket yang hanya berasal port 443 adalah dengan menggunakan ```
 ![no 5 (8)](https://user-images.githubusercontent.com/112471006/191997651-8872d3c2-1e9a-45a9-8717-7fda8d8ebec1.png)
 ![no 5 (9)](https://user-images.githubusercontent.com/112471006/191997655-2be9b7c0-62d4-4e42-ba43-b7cc76b27cb7.png)
 
-<strong> No 6.Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id!</strong>
+<strong> No 6. Filter sehingga wireshark hanya menampilkan paket yang menuju ke lipi.go.id!</strong>
 
-Pertama-tama kita mencari tahu ‘ip address’ dari lipi.go.id dari cmd menggunakan ping
+Pertama-tama kita mencari tahu ip address dari lipi.go.id dari cmd menggunakan ```ping```
+![no 6 (ip)](https://user-images.githubusercontent.com/112471006/191999678-a3c2d8e8-6394-4e11-831b-27c8b728b07c.png)
+kemudian kita diminta untuk mencari tahu paket yang menuju ip address tersebut dengan menggunakan
+```ip.dst == 203.160.128.158``` di display filter.
 ![No 6](https://user-images.githubusercontent.com/112471006/191998778-ece8561a-f1ef-4600-8cf8-9078d5d213cd.png)
+
+<strong> No 7. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!</strong>
+
+Pertama-tama kita mencari tahu ip address kita dari dari cmd menggunakan ```ipconfig```
+![no 7 (ip)](https://user-images.githubusercontent.com/112471006/191999958-8ff99f75-c1bc-46fe-8eec-3e914583e64d.png)
+kemudian kita diminta untuk mencari tahu paket yang berasal dari ip addres kita dengan menggunakan '''ip.src == 192.168.1.10''' di display filter.
+![no 7](https://user-images.githubusercontent.com/112471006/192001108-23dcc036-0707-4ca2-8304-33409a34b475.png)
+
 
 
 
