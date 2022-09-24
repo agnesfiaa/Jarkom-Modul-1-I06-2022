@@ -91,9 +91,12 @@ Maka, percakapan antara dua mahasiswa terkait tindakan kecurangan pada kegiatan 
 ![9_renameI06 des3](https://user-images.githubusercontent.com/94436711/192071317-ea2c1ba8-a78c-45cc-9417-77ddd0c6c705.png)
 7. Dekripsi file tersebut, lalu rename menjadi <code>flag.txt</code><br>
 ![9_flag txt](https://user-images.githubusercontent.com/94436711/192071797-9174c1e3-a753-40b7-bf5a-b5c4f866dea6.png)
+Namun kami mengalami kesulitan saat mengerjakan nomor 9, yaitu kami tidak dapat men-decrypt file tersebut.
 
 ## 10. Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
-Setelah dideksripsi, dalam file ``flag.txt`` tertulis password rahasianya.
+Setelah di-decrypt, dalam file ``flag.txt`` tertulis password rahasianya.
+Namun disini kami mengalami kesulitan dalam mengerjakan no 10, dikarenakan no 9 tidak daapat kami selesaikan.
+
 
 
 
