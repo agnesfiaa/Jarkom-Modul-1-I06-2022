@@ -1,8 +1,8 @@
 # Jarkom-Modul-1-I06-2022
-Nama Anggota :
+<strong>Nama Anggota :
 1. Rycahaya Sri Hutomo    (5025201046)
 2. Agnesfia Anggraeni     (5025201059)
-3. Rahel Cecilia Purba    (5025201155) 
+3. Rahel Cecilia Purba    (5025201155) </strong>
 
 ## 1. Sebutkan web server yang digunakan pada "monta.if.its.ac.id"!
 
