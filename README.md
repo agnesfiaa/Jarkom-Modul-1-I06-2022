@@ -33,6 +33,11 @@ Cara menampilkan paket yang hanya menuju port 80 adalah dengan menggunakan ```tc
 ![no 3](https://user-images.githubusercontent.com/112471006/191893444-9af2d7d3-e47a-4ef3-8fba-0a9c537804f2.png)
 
 ## 4. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 21!
+Cara menampilkan paket yang hanya berasal dari port 21 dengan menggunakan `tcp.srcport == 21` pada capture filter.
+![Soal 4](https://user-images.githubusercontent.com/94664966/192077262-8ea83012-5a98-4192-9411-a9f851283b63.PNG)
+![Soal 4 1](https://user-images.githubusercontent.com/94664966/192077263-cb25d97c-f57b-4ad0-9cfc-3a4ecee431c5.PNG)
+![Soal 4 2](https://user-images.githubusercontent.com/94664966/192077265-93e6c9f8-4bb3-4b14-bfb0-6e76dc2cdbf9.PNG)
+
 
 ## 5. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 443!
 
