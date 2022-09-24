@@ -97,7 +97,7 @@ Namun kami mengalami kesulitan saat mengerjakan nomor 9, yaitu kami tidak dapat 
 ## 10. Temukan password rahasia (flag) dari organisasi bawah tanah yang disebutkan di atas!
 Setelah di-decrypt, dalam file ``flag.txt`` tertulis password rahasianya.
 
-Namun disini kami mengalami kesulitan dalam mengerjakan no 10, dikarenakan no 9 tidak daapat kami selesaikan.
+Namun disini kami mengalami kesulitan dalam mengerjakan no 10, dikarenakan no 9 tidak dapat kami selesaikan.
 
 
 
